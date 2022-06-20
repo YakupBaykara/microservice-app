@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "eureka.instance.leaseRenewalIntervalInSeconds",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.leaseRenewalIntervalInSeconds'"
+  },
+  {
+    "name": "eureka.client.registryFetchIntervalSeconds",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.client.registryFetchIntervalSeconds'"
+  }
+]}

@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spcloud.cassandra.contact.point",
+    "type": "java.lang.String",
+    "description": "A description for 'spcloud.cassandra.contact.point'"
+  },
+  {
+    "name": "spcloud.cassandra.keyspace.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spcloud.cassandra.keyspace.name'"
+  },
+  {
+    "name": "spcloud.cassandra.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spcloud.cassandra.port'"
+  }
+]}

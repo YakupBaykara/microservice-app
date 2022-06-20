@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Yakup
+Build-Jdk: 15
+Implementation-Title: zipkin-server
+Implementation-Version: 2.0.7.RELEASE
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/zipkin-server
+Created-By: Maven Integration for Eclipse
+
